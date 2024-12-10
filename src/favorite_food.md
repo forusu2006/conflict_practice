@@ -1,3 +1,5 @@
 # favorite food
 
-mikan
+<<<<<<< HEAD
+orange
+

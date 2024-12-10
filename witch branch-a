@@ -1,0 +1,20 @@
+[33mcommit f8fd0e88b3b4a2e742e32319b9b2ee544ac33c6b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 4f796a6 fa477fa
+Author: forusu2006 <castoffcastoff2006@gmail.com>
+Date:   Tue Dec 10 20:06:54 2024 +0900
+
+    Merge pull request #2 from forusu2006/branch-b
+    
+    update the favorite food on branch-b
+
+[33mcommit fa477fa8e0c90cc592360068d90efc5729bf38a0[m[33m ([m[1;31morigin/branch-b[m[33m, [m[1;32mbranch-b[m[33m)[m
+Author: forusu2006 <castoffcastoff2006@gmail.com>
+Date:   Tue Dec 10 11:04:33 2024 +0000
+
+    update the favorite food on branch-b
+
+[33mcommit 4f796a60db7cddb0fdc8dead0e7b52af15abc106[m
+Author: forusu2006 <castoffcastoff2006@gmail.com>
+Date:   Tue Dec 10 10:57:29 2024 +0000
+
+    initial commit
